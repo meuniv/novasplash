@@ -5,7 +5,7 @@ Requirement #5: Water@Life
 
 .. admonition:: Challenge: What is lateral thinking?
 
-   Lateral thinking is, according to wikipedia, a *manner of solving problems using an indirect and creative approach via reasoning that is not immediately obvious. ... It is this moment of surprise, generating laughter and new insight, which facilitates the ability to see a different thought pattern which initially was not obvious.*
+   Lateral thinking is, according to wikipedia, a *manner of solving problems using an indirect and creative approach via reasoning that is not immediately obvious. It is this moment of surprise, generating laughter and new insight, which facilitates the ability to see a different thought pattern which initially was not obvious.*
 
    **Examples of lateral thinking puzzles**
 
