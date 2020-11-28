@@ -18,7 +18,7 @@ Instructions
 Documenting your progress
 -------------------------
 
-1. A template worksheet can be found `here <https://docs.google.com/document/d/1LHTLSPWGnsp5ryM0lysxYUfm-YkJDmJnG5pUgVnPj3w/edit?usp=sharing>`_. This is a *Google document*. **You will not be able to modify it until you make your own copy as I will now describe for you.**
+1. A template worksheet can be found `here <https://docs.google.com/document/d/1LHTLSPWGnsp5ryM0lysxYUfm-YkJDmJnG5pUgVnPj3w/edit?usp=sharing >`_. This is a *Google document*. **You will not be able to modify it until you make your own copy as I will now describe for you.**
 2. Once you have opened the file on google doc, go to :code:`File` :math:`\rightarrow` :code:`Make a Copy`.
 3. Save the file with the following name: *Nova_splash_FIRSTNAME_LASTNAME*
 4. You will use that file to enter your progress and share with your counselor.
