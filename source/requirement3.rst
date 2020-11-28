@@ -61,6 +61,6 @@ Requirement #3: Study Water
    :alt: alternate text
    :figclass: align-center
    
-   Surface tension allows those insect to walk on water! Image obtained from science-sparks.com (click on image for reference). Check that website for fun and easy experiments on surface tension. 
+   Surface tension allows those insects to walk on water! Image obtained from science-sparks.com (click on image for reference). Check that website for fun and easy experiments to learn more about surface tension. 
 
 .. attention:: Once you have completed this requirement, make sure you document it in your worksheet!
