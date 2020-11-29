@@ -61,6 +61,7 @@ Other Nova modules in this series
       :scale: 80 %                             
       :target: https://novasplash.readthedocs.io	    	       
 
+
 ..
 ..
    .. image:: _images/logo4.png
