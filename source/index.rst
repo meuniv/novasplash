@@ -16,6 +16,7 @@ Welcome to Nova -- Let it grow
    requirement3
    requirement4
    requirement5
+   Others
    contact
    
 ..

@@ -37,39 +37,3 @@ If you have any question
 
 Contact your counselor or your scoutmaster! If you have questions about the program, contact Vincent Meunier  by `email <mailto:vinmeunier@gmail.com>`_ (always make sure to copy another adult on all your communications!).
 
-Other Nova modules in this series
----------------------------------
-
-.. Admonition:: More will be added, check regularly!
-
-   .. image:: _images/logo-dtc2_black.png            
-      :scale: 80 %                             
-      :target: https://novadtc.readthedocs.io  
-
-
-   .. image:: _images/logo-shoot_black.png           
-      :scale: 80 %                             
-      :target: https://novashoot.readthedocs.io	    
-
-
-   .. image:: _images/logo-lig_black.png           
-      :scale: 80 %                             
-      :target: https://novalig.readthedocs.io
-
-	       
-   .. image:: _images/logo-splash_black.png           
-      :scale: 80 %                             
-      :target: https://novasplash.readthedocs.io	    	       
-
-..
-..
-   .. image:: _images/logo4.png
-      :scale: 50 %
-      :alt: alternate text
-      :align: center
-
-
-
-
-	  
-	   
