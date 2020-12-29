@@ -47,7 +47,7 @@ Requirement #3: Study Water
      (1) Estimate how much water is used for each function over a specific time period. Add your estimates to come up with an estimate of total water usage by your family for one month or one year.
      (2) Compare your estimate with the actual total found on your home water bill, and account for any large differences. (Hint: ask your parent or guardian to help you locate that information on the monthly water bill or well meter.)
 
-  .. note:: If you live in a multi-family housing unit and do not have an individual water bill, you may be able to obtain the information from your unit’s management. If not, measure your water usage for at least two tasks (for example, by leaving the drain closed when you take a shower, then measuring the amount of water that collected in the tub during your shower), and use that data to revise your estimates.
+	  .. note:: If you live in a multi-family housing unit and do not have an individual water bill, you may be able to obtain the information from your unit’s management. If not, measure your water usage for at least two tasks (for example, by leaving the drain closed when you take a shower, then measuring the amount of water that collected in the tub during your shower), and use that data to revise your estimates.
 
      (3) How does your local usage compare to the average use per capita in your state? The United States Geological Survey (usgs.org) is a good source for data on average water usage.
      (4) Identify several ways to reduce your water consumption, and practice them for one month. Estimate how much clean water you have saved.
@@ -61,6 +61,6 @@ Requirement #3: Study Water
    :alt: alternate text
    :figclass: align-center
    
-   Surface tension allows those insect to walk on water! Image obtained from science-sparks.com (click on image for reference). Check that website for fun and easy experiments on surface tension. 
+   Surface tension allows those insects to walk on water! Image obtained from science-sparks.com (click on image for reference). Check that website for fun and easy experiments to learn more about surface tension. 
 
 .. attention:: Once you have completed this requirement, make sure you document it in your worksheet!
