@@ -1,4 +1,4 @@
-Requirement #5: Water@Life
+Requirement #5: Water @ Life
 ++++++++++++++++++++++++++++
 
 :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}` Discuss with your counselor what you have learned about how water affects your everyday life.
